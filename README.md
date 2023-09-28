@@ -23,7 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Tests
 
-The project uses mocha for testing. You can find the tests in the `test` folder.
+The project uses mocha for testing. You can find the tests in the `tests` folder.
 
 To run the tests:
 
