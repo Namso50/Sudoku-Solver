@@ -1,6 +1,4 @@
-# Freecodecamp Quality Assurance Projects
-
-## Sudoku Solver
+# Sudoku Solver
 
 There are 81 characters that represents sudoku's cells.  
 **Dots** represents blank cells.
