@@ -1,7 +1,7 @@
 # Sudoku Solver
 
-There are 81 characters that represents sudoku's cells.  
-**Dots** represents blank cells.
+- There are 81 characters that represents sudoku's cells.  
+- **Dots** represents blank cells.
 
 ## Install the dependencies
 
